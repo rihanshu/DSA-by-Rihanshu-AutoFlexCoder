@@ -11,7 +11,7 @@
 //         int size;
 //         int *arr;
 
-//         //Constructor
+//         //Constructor (It is used to initialize the objects of the class.)
 //         Stack(int size){
 //             this->size=size;
 //             this->top=-1;
@@ -82,7 +82,7 @@
 // using STL
 #include<iostream>
 using namespace std;
-#include<stack>
+#include<stack> //needs to be included...
 
 int main(){
     stack<int>s;
