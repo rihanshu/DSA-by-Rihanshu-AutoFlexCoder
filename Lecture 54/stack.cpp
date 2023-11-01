@@ -68,10 +68,10 @@
 //             else{
 //                 cout<<"Stack is not empty"<<endl;
 //             }
-//             // s.push(22);
-//             // s.push(33);
-//             // s.push(44);
-//             // s.push(55);
+//             s.push(22);
+//             s.push(33);
+//             s.push(44);
+//             s.push(55);
 //             s.peek();
 //             s.pop();
 //                s.peek();
